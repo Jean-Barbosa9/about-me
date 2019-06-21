@@ -1,4 +1,4 @@
-# sobre-mim
+# Sobre mim
 Descritivo das tecnologias que uso diariamente e road map de estudos:
 
 ## Experiência de uso diário: 
@@ -24,7 +24,7 @@ Descritivo das tecnologias que uso diariamente e road map de estudos:
 
   - tenho utilizado o Firebase em algumas aplicações, considerando desde usar para autenticar usuários, armazenar dados no Firestore e até para hostear a aplicação.
 
-Estudando:
+## Estudando:
 
   - React utilizando bibliotecas para manuseio de rotas (React Router Dom), para administração de estado da aplicaão (Redux) e para conexão com o Firebase também administrando o estado da aplicação (React Redux Firebase). Também aprendi a administrar o estado da aplicação entre componentes, através do Context API. A nível de setup tenho usado o Creat React App, mas está na minha lista estudar webpack para que eu saiba como fazer configurações personalizadas no mesmo. Sendo assim ainda considero meu conhecimento em React como básico, mas já colocando em prática com projeto pessoal
 
