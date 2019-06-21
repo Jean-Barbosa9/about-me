@@ -1,7 +1,7 @@
 # sobre-mim
 Descritivo das tecnologias que uso diariamente e road map de estudos:
 
-## Experiência de uso: 
+## Experiência de uso diário: 
   - git seguindo os conceitos e filosofia do git flow para versionar o projeto da forma mais organizada possível; 
 
   - pacotes do npm instalando as dependências do projeto local e globalmente; 
