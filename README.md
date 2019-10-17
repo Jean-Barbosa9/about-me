@@ -28,4 +28,6 @@ Descritivo das tecnologias que uso diariamente e road map de estudos:
 
   - React utilizando bibliotecas para manuseio de rotas (React Router Dom), para administração de estado da aplicaão (Redux) e para conexão com o Firebase também administrando o estado da aplicação (React Redux Firebase). Também aprendi a administrar o estado da aplicação entre componentes, através do Context API. A nível de setup tenho usado o Creat React App, mas está na minha lista estudar webpack para que eu saiba como fazer configurações personalizadas no mesmo. Sendo assim ainda considero meu conhecimento em React como básico, mas já colocando em prática com projeto pessoal
 
-  - Vuejs utilizando bibliotecas para manuseio de rotas (vue router) e administração de estado da aplicação entre os componentes (vuex). Na aplicação que eu desenvolvi, fiz a conexão com o Firebase através das APIs da própria plataforma.
+  - Vuejs utilizando bibliotecas para manuseio de rotas (vue router) e administração de estado da aplicação entre os componentes (vuex). Na aplicação que eu desenvolvi, fiz a conexão com o Firebase através das APIs da própria plataforma e APIs próprias usando um pouco de NodeJS, para se conectar com Google Planilhas e realizar autenticação OAuth2, para envio de e-mail através da API do gmail.
+  
+- Iniciando os estudos em NodeJS, para criação de rotas de API e middleware para manuseio de informação e conexão com MongoDB.
