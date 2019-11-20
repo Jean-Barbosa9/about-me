@@ -40,6 +40,7 @@ Entre maio de 2018 e junho de 2019, participei da manutenção dos sites listado
  - <a href="https://www.klin.com.br" target="_blank">Klin</a>;
  - <a href="https://cluberedeconecta.redeconectasa.com.br" target="_blank">Mongeral</a>;
  - <a href="https://www.offpremium.com.br" target="_blank">Off Premium</a>;
+ - <a href="https://www.outershoes.com.br" target="_blank">Outer Shoes</a>;
  - <a href="https://www.rhinoautoparts.com.br" target="_blank">Rhino Auto Parts</a>;
  
 ### Projeto que trabalhei na Estante Virtual:
