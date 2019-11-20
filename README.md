@@ -28,7 +28,7 @@ This document aim describing detailed which tecnologies I use daily, my portfoli
 
   ### Projects I worked at Original io
   Beetwen may/2018 and june/2019, I worked the maintance of web sites below, that have been used Vtex platform and tecnologies as PUG, SASS and JavaScript with JQuery in its development environment, using webpack based build. All of these uses all versions (mobile, tablet and desktop):
-  - <a href="https://www.abrand.com.br" target="_blank">ABrand</a>;
+ - <a href="https://www.abrand.com.br" target="_blank">ABrand</a>;
  - <a href="https://www.agatha.com.br" target="_blank">Agatha Modas</a>;
  - <a href="https://www.animale.com.br" target="_blank">Animale</a>;
  - <a href="https://www.armadillo.com.br" target="_blank">Armadillo</a>;
@@ -56,5 +56,5 @@ This document aim describing detailed which tecnologies I use daily, my portfoli
 
   ### Next steps:
 
-    - Initiate Nodejs studing, focusing in a first step on API routes and middleware to handle informations and MongoDB conection;
-    - Initiate MySQL studing and general concepts on relational data bases
+  - Initiate Nodejs studing, focusing in a first step on API routes and middleware to handle informations and MongoDB conection;
+  - Initiate MySQL studing and general concepts on relational data bases
