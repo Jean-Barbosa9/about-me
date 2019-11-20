@@ -1,7 +1,7 @@
 # About me
 This document aim describing detailed which tecnologies I use daily, my portfolio, what I'm studying e my road map to step by step reach my main goal of being a complete developer and be capable to working with the full stack (Front End, Back End and mobile applications).
 
-### My daily expirience
+### My daily experience
   - git following concepts and phylosophi of git flow, to versionating a project in a organized way;
   
   - npm packages installing it's dependencies locally and globally in the machine;
