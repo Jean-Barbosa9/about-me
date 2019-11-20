@@ -40,6 +40,7 @@ This document aim describing detailed which tecnologies I use daily, my portfoli
  - <a href="https://www.klin.com.br" target="_blank">Klin</a>;
  - <a href="https://cluberedeconecta.redeconectasa.com.br" target="_blank">Mongeral</a>;
  - <a href="https://www.offpremium.com.br" target="_blank">Off Premium</a>;
+ - <a href="https://www.outershoes.com.br" target="_blank">Outer Shoes</a>;
  - <a href="https://www.rhinoautoparts.com.br" target="_blank">Rhino Auto Parts</a>;
 
  ### Projects I worked at Estante Virtual
