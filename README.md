@@ -1,12 +1,16 @@
 # About me
-This document aim describing detailed which tecnologies I use daily, my portfolio, what I'm studying e my road map to step by step reach my main goal of being a complete developer and be capable to working with the full stack (Front End, Back End and mobile applications).
+Here you can read about which tecnologies I'm daily working on, my portfolio, what I'm studying and my road map to improve my soft and hard skills as developer. I love technology and I'm always looking for learning new things and get updated. Right now I'm focused in learning deeper about JavaScript, to use it even on Front-End as much on Back-End, with Reactjs and Nodejs, respectivelly.
 
-### My daily experience
-  - git following concepts and phylosophi of git flow, to versionating a project in a organized way;
+## My experience
+  - git following concepts and phylosophi of git flow, to versionating a project in an organized way;
   
   - npm packages installing it's dependencies locally and globally in the machine;
   
   - Ubuntu operation system, which offers me more agility and flebility dayli;
+  
+  - Docker with Docker Compose;
+  
+  - Ruby on Rails;
   
   - pre processors PUG to transpile HTML and SASS to compile CSS. They together make Front End development easier, agil and flexible due to it's mixins, variables and programing logics;
   
@@ -18,16 +22,18 @@ This document aim describing detailed which tecnologies I use daily, my portfoli
   
   - My development thinking is mobile first, aiming a 100% responsive web site, always worried about code semantics and clean code, no matters if it's HTML, CSS or JS;
   
-  - I've already setted a development environment, using the task manager Gulp, to compile PUG, SASS and transpile Ecma2015 to Ecma2009, garanting browsers compatibility;
+  - I've already set a development environment, using the task manager Gulp, to compile PUG, SASS and transpile Ecma2015 to Ecma2009, garanting browsers compatibility;
   
   - I've already developed a application using Bootstrap with its both modules (CSS and JS), to focus on application logics and letting the library working as expected;
   
   - I'm using Firebase in some applications, considering user authentication, Firebase storage and its hosting services;
+  
+  - I studied Vuejs and I can use it to build applications using libraries to handle routes (vue router) and state management (vuex), third parties libraries like Vue Owl Carousel (carousel banners), animations and transitions with libraries like Animate CSS and JavaScript animations, components libraries as Vue Bootstrap, Event Bus instantiation, Mixins and global exports to use SASS, for example. I developed an application using the majority of these resources and conecting it with Firebase, to store data in Firestore. I used some backend services with Firebase Functions, to read a Google Spreadsheet and send emails with OAuth2 conecting with Gmail.
 
-  ## Portfolios
+## Portfolios
 
-  ### Projects I worked at Original io
-  Beetwen may/2018 and june/2019, I worked the maintance of web sites below, that have been used Vtex platform and tecnologies as PUG, SASS and JavaScript with JQuery in its development environment, using webpack based build. All of these uses all versions (mobile, tablet and desktop):
+  ### Projects I worked at Original io (2018/May - 2019/June)
+  Original IO is a Vtex Partner Agency that implements e-Commerce's Front-End and offers some other services related to it. I worked maintainning this web sites listed below (which were Vtex clients). Technologies used: PUG, SASS and JavaScript with JQuery in its development environment, using webpack based build. All of these uses all versions (mobile, tablet and desktop):
  - <a href="https://www.abrand.com.br" target="_blank">ABrand</a>;
  - <a href="https://www.agatha.com.br" target="_blank">Agatha Modas</a>;
  - <a href="https://www.animale.com.br" target="_blank">Animale</a>;
@@ -41,18 +47,25 @@ This document aim describing detailed which tecnologies I use daily, my portfoli
  - <a href="https://www.outershoes.com.br" target="_blank">Outer Shoes</a>;
  - <a href="https://www.rhinoautoparts.com.br" target="_blank">Rhino Auto Parts</a>;
 
- ### Projects I worked at Estante Virtual
- Since june/2019 we are working in a ecommerce project which uses Vtex platform too, with HTML5, SASS and JavaScript with JQuery as tecnologies. It's build is made through Gulp tasks. Soon I'll release the link.
+ ### Projects I worked at Estante Virtual (2019/June - 2022/June)
+ Estante Virtual is an online marketplace that is used to sell used and new books. Any one can register her/him self as a seller and create the books to be sold on Estante Virtual online store. It was bouhgt by Magazine Luiza at 2020 January and now is part of it's group.
+ 
+ - <a href="https://www3.livrariacultura.com.br/" target="_blank">Livraria Cultura</a>: An ecommerce project that uses Vtex platform as backend, with HTML5, SASS and JavaScript with JQuery on it's frontend. It was built using Gulp tasks.
+ - Backoffice admin panels: All admin panels used by sellers (to manage account, books registrations, sales and more) and internal teams (to manage many administrative routines). Technologies used: Nuxt, Ruby on Rails and Django;
+ - Integrations with Magazine Luiza: Back-End integrations between Estante Virtual and Magazine Luiza services, to create new features to Estante Virtual sellers and garantee the needed communications between both companies. Technologies used: Ruby on Rails, Django and Fast API;
+
+### Personal projects
+I'm working in a personal project using Ruby on Rails to build a blog with a admin panel. As soon as I had it's link, I'll insert it here.
 
  ## Studying
-
-  - I studied a lot about Vuejs Framework and I consider me in a professional level, because I'm capable of using libraries to handle routes (vue router) and state management (vuex), third parties libraries like Vue Owl Carousel (carousel banners), animations and transitions with libraries like Animate CSS and JavaScript animations, components libraries as Vue Bootstrap, Event Bus instantiation, Mixins and global exports to use SASS, for example. I developed a application using the majority resources listed above and conecting it with Firebase to store data in Firestore and some backend services with Firebase Functions to read a Google Spreadsheet and send emails with OAuth2 conecting with Gmail. As soon as it's in production I'll release the link.
-  
-  - React using libraries to handle component styling (styled components), routes (React Router Dom), state management (Redux) and Firebase conection and state management (React Redux Firebase). I've also learned how to manage state through components, with Context API. I settup my applications with "Create React App", but it's in my road map to study webpack, so I'll can handle my own custom settings. However I consider my knowledge with React basic yet, but I've started a personal project to practice and learn more about it.
-
-  - I've just started my studing in Flutter Framework focusing in mobile application development.
+  - React using both class based and hooks, some libraries to handle component styling (styled components), routes (React Router Dom), state management (Context API and Redux). I used to use the "Create React App" CLI to settup React applications, but I'm going to start to use Vite to learn more about this new tendency.
+  - Nextjs (React Framework for Server Side Rendering) integrated with GraphQL.
+  - Nojejs to build API Rest or GraphQL, integrating it with some database. I'm thinking about using it's template rendering, to play a little with it's possibilities.
+  - Strapi (Headless CMS) integrated with GraphQL, database, some email service and file upload service (AWS S3 like).
 
   ### Next steps:
-
-  - Initiate Nodejs studing, focusing in a first step on API routes and middleware to handle informations and MongoDB conection;
+  - Go deeper in automated tests (probably using React Testing Library and Jest)
+  - CI/CD
+  - Cloud Services
   - Initiate MySQL studing and general concepts on relational data bases
+  - React Native
